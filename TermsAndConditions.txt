@@ -1,0 +1,9 @@
+
+*****************************************************************************
+Terms and Conditions for Vaishnavi's Stock Application.
+This is a Text User Interface Application. 
+It provides the user with multiple options to work on, use and analyse the stock data in an efficient manner.
+The user prompts are written consicely and to the point.
+***************************************************************************** 
+
+
